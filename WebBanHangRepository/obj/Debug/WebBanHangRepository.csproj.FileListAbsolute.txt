@@ -1,0 +1,2 @@
+C:\Users\PCnet\source\repos\WebBanHangMcv\WebBanHangRepository\obj\Debug\WebBanHangRepository.csproj.AssemblyReference.cache
+C:\Users\PCnet\source\repos\WebBanHangMcv\WebBanHangRepository\obj\Debug\WebBanHangRepository.csproj.CoreCompileInputs.cache

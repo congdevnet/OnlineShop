@@ -1,0 +1,2 @@
+C:\Users\PCnet\source\repos\WebBanHangMcv\WebQuanLyBanHangRepository.EntityFramework\obj\Debug\WebQuanLyBanHangRepository.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\PCnet\source\repos\WebBanHangMcv\WebQuanLyBanHangRepository.EntityFramework\obj\Debug\WebQuanLyBanHangRepository.EntityFramework.csproj.CoreCompileInputs.cache
